@@ -1,0 +1,5 @@
+boto3==1.28.47
+pandas==2.0.3
+psycopg2==2.9.7
+redshift-connector==2.0.914
+SQLAlchemy==2.0.20
