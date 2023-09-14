@@ -1,0 +1,250 @@
+alpha-3|country|region|sub-region|id_country
+AFG|Afghanistan|Asia|Southern Asia|1
+ALB|Albania|Europe|Southern Europe|2
+DZA|Algeria|Africa|Northern Africa|3
+AND|Andorra|Europe|Southern Europe|4
+AGO|Angola|Africa|Sub-Saharan Africa|5
+ATG|Antigua and Barbuda|Americas|Latin America and the Caribbean|6
+ARG|Argentina|Americas|Latin America and the Caribbean|7
+ARM|Armenia|Asia|Western Asia|8
+AUS|Australia|Oceania|Australia and New Zealand|9
+AUT|Austria|Europe|Western Europe|10
+AZE|Azerbaijan|Asia|Western Asia|11
+BHS|Bahamas|Americas|Latin America and the Caribbean|12
+BHR|Bahrain|Asia|Western Asia|13
+BGD|Bangladesh|Asia|Southern Asia|14
+BRB|Barbados|Americas|Latin America and the Caribbean|15
+BLR|Belarus|Europe|Eastern Europe|16
+BEL|Belgium|Europe|Western Europe|17
+BLZ|Belize|Americas|Latin America and the Caribbean|18
+BEN|Benin|Africa|Sub-Saharan Africa|19
+BTN|Bhutan|Asia|Southern Asia|20
+BOL|Bolivia|Americas|Latin America and the Caribbean|21
+BWA|Botswana|Africa|Sub-Saharan Africa|23
+BRA|Brazil|Americas|Latin America and the Caribbean|24
+BGR|Bulgaria|Europe|Eastern Europe|26
+BFA|Burkina Faso|Africa|Sub-Saharan Africa|27
+BDI|Burundi|Africa|Sub-Saharan Africa|28
+KHM|Cambodia|Asia|South-eastern Asia|29
+CMR|Cameroon|Africa|Sub-Saharan Africa|30
+CAN|Canada|Americas|Northern America|31
+CAF|Central African Republic|Africa|Sub-Saharan Africa|33
+TCD|Chad|Africa|Sub-Saharan Africa|34
+CHL|Chile|Americas|Latin America and the Caribbean|35
+CHN|China|Asia|Eastern Asia|36
+COL|Colombia|Americas|Latin America and the Caribbean|37
+COM|Comoros|Africa|Sub-Saharan Africa|38
+CRI|Costa Rica|Americas|Latin America and the Caribbean|41
+HRV|Croatia|Europe|Southern Europe|42
+CUB|Cuba|Americas|Latin America and the Caribbean|43
+CYP|Cyprus|Asia|Western Asia|44
+CZE|Czech Republic|Europe|Eastern Europe|45
+DNK|Denmark|Europe|Northern Europe|46
+DJI|Djibouti|Africa|Sub-Saharan Africa|47
+DMA|Dominica|Americas|Latin America and the Caribbean|48
+DOM|Dominican Republic|Americas|Latin America and the Caribbean|49
+ECU|Ecuador|Americas|Latin America and the Caribbean|51
+EGY|Egypt|Africa|Northern Africa|52
+SLV|El Salvador|Americas|Latin America and the Caribbean|53
+GNQ|Equatorial Guinea|Africa|Sub-Saharan Africa|54
+ERI|Eritrea|Africa|Sub-Saharan Africa|55
+EST|Estonia|Europe|Northern Europe|56
+ETH|Ethiopia|Africa|Sub-Saharan Africa|57
+FJI|Fiji|Oceania|Melanesia|58
+FIN|Finland|Europe|Northern Europe|59
+FRA|France|Europe|Western Europe|60
+GAB|Gabon|Africa|Sub-Saharan Africa|61
+GEO|Georgia|Asia|Western Asia|63
+DEU|Germany|Europe|Western Europe|64
+GHA|Ghana|Africa|Sub-Saharan Africa|65
+GRC|Greece|Europe|Southern Europe|66
+GRD|Grenada|Americas|Latin America and the Caribbean|67
+GTM|Guatemala|Americas|Latin America and the Caribbean|68
+GIN|Guinea|Africa|Sub-Saharan Africa|69
+GUY|Guyana|Americas|Latin America and the Caribbean|71
+HTI|Haiti|Americas|Latin America and the Caribbean|72
+HND|Honduras|Americas|Latin America and the Caribbean|73
+HUN|Hungary|Europe|Eastern Europe|74
+ISL|Iceland|Europe|Northern Europe|75
+IND|India|Asia|Southern Asia|76
+IDN|Indonesia|Asia|South-eastern Asia|77
+IRN|Iran|Asia|Southern Asia|78
+IRQ|Iraq|Asia|Western Asia|79
+IRL|Ireland|Europe|Northern Europe|80
+ISR|Israel|Asia|Western Asia|81
+ITA|Italy|Europe|Southern Europe|82
+JAM|Jamaica|Americas|Latin America and the Caribbean|84
+JPN|Japan|Asia|Eastern Asia|85
+JOR|Jordan|Asia|Western Asia|86
+KAZ|Kazakhstan|Asia|Central Asia|87
+KEN|Kenya|Africa|Sub-Saharan Africa|88
+KIR|Kiribati|Oceania|Micronesia|89
+PRK|South Korea|Asia|Eastern Asia|91
+KWT|Kuwait|Asia|Western Asia|92
+KGZ|Kyrgyzstan|Asia|Central Asia|93
+LAO|Laos|Asia|South-eastern Asia|94
+LVA|Latvia|Europe|Northern Europe|95
+LBN|Lebanon|Asia|Western Asia|96
+LSO|Lesotho|Africa|Sub-Saharan Africa|97
+LBR|Liberia|Africa|Sub-Saharan Africa|98
+LBY|Libya|Africa|Northern Africa|99
+LIE|Liechtenstein|Europe|Western Europe|100
+LTU|Lithuania|Europe|Northern Europe|101
+LUX|Luxembourg|Europe|Western Europe|102
+MKD|Macedonia|Europe|Southern Europe|103
+MDG|Madagascar|Africa|Sub-Saharan Africa|104
+MWI|Malawi|Africa|Sub-Saharan Africa|105
+MYS|Malaysia|Asia|South-eastern Asia|106
+MDV|Maldives|Asia|Southern Asia|107
+MLI|Mali|Africa|Sub-Saharan Africa|108
+MLT|Malta|Europe|Southern Europe|109
+MHL|Marshall Islands|Oceania|Micronesia|110
+MRT|Mauritania|Africa|Sub-Saharan Africa|111
+MUS|Mauritius|Africa|Sub-Saharan Africa|112
+MEX|Mexico|Americas|Latin America and the Caribbean|113
+MDA|Moldova|Europe|Eastern Europe|115
+MCO|Monaco|Europe|Western Europe|116
+MNG|Mongolia|Asia|Eastern Asia|117
+MNE|Montenegro|Europe|Southern Europe|118
+MAR|Morocco|Africa|Northern Africa|119
+MOZ|Mozambique|Africa|Sub-Saharan Africa|120
+MMR|Myanmar|Asia|South-eastern Asia|121
+NAM|Namibia|Africa|Sub-Saharan Africa|122
+NRU|Nauru|Oceania|Micronesia|123
+NPL|Nepal|Asia|Southern Asia|124
+NLD|Netherlands|Europe|Western Europe|125
+NZL|New Zealand|Oceania|Australia and New Zealand|126
+NIC|Nicaragua|Americas|Latin America and the Caribbean|127
+NER|Niger|Africa|Sub-Saharan Africa|128
+NGA|Nigeria|Africa|Sub-Saharan Africa|129
+NOR|Norway|Europe|Northern Europe|130
+OMN|Oman|Asia|Western Asia|131
+PAK|Pakistan|Asia|Southern Asia|132
+PLW|Palau|Oceania|Micronesia|133
+PAN|Panama|Americas|Latin America and the Caribbean|135
+PNG|Papua New Guinea|Oceania|Melanesia|136
+PRY|Paraguay|Americas|Latin America and the Caribbean|137
+PER|Peru|Americas|Latin America and the Caribbean|138
+PHL|Philippines|Asia|South-eastern Asia|139
+POL|Poland|Europe|Eastern Europe|140
+PRT|Portugal|Europe|Southern Europe|141
+QAT|Qatar|Asia|Western Asia|142
+ROU|Romania|Europe|Eastern Europe|143
+RUS|Russia|Europe|Eastern Europe|144
+RWA|Rwanda|Africa|Sub-Saharan Africa|145
+KNA|Saint Kitts and Nevis|Americas|Latin America and the Caribbean|146
+LCA|Saint Lucia|Americas|Latin America and the Caribbean|147
+WSM|Samoa|Oceania|Polynesia|149
+SMR|San Marino|Europe|Southern Europe|150
+STP|Sao Tome and Principe|Africa|Sub-Saharan Africa|151
+SAU|Saudi Arabia|Asia|Western Asia|152
+SEN|Senegal|Africa|Sub-Saharan Africa|153
+SRB|Serbia|Europe|Southern Europe|154
+SYC|Seychelles|Africa|Sub-Saharan Africa|155
+SLE|Sierra Leone|Africa|Sub-Saharan Africa|156
+SGP|Singapore|Asia|South-eastern Asia|157
+SVK|Slovakia|Europe|Eastern Europe|158
+SVN|Slovenia|Europe|Southern Europe|159
+SLB|Solomon Islands|Oceania|Melanesia|160
+SOM|Somalia|Africa|Sub-Saharan Africa|161
+ZAF|South Africa|Africa|Sub-Saharan Africa|162
+SSD|South Sudan|Africa|Sub-Saharan Africa|163
+ESP|Spain|Europe|Southern Europe|164
+LKA|Sri Lanka|Asia|Southern Asia|165
+SDN|Sudan|Africa|Northern Africa|166
+SUR|Suriname|Americas|Latin America and the Caribbean|167
+SWE|Sweden|Europe|Northern Europe|169
+CHE|Switzerland|Europe|Western Europe|170
+SYR|Syria|Asia|Western Asia|171
+TJK|Tajikistan|Asia|Central Asia|172
+TZA|Tanzania|Africa|Sub-Saharan Africa|173
+THA|Thailand|Asia|South-eastern Asia|174
+TGO|Togo|Africa|Sub-Saharan Africa|175
+TON|Tonga|Oceania|Polynesia|176
+TTO|Trinidad and Tobago|Americas|Latin America and the Caribbean|177
+TUN|Tunisia|Africa|Northern Africa|178
+TUR|Turkey|Asia|Western Asia|179
+TKM|Turkmenistan|Asia|Central Asia|180
+TUV|Tuvalu|Oceania|Polynesia|181
+UGA|Uganda|Africa|Sub-Saharan Africa|182
+UKR|Ukraine|Europe|Eastern Europe|183
+ARE|United Arab Emirates|Asia|Western Asia|184
+GBR|United Kingdom|Europe|Northern Europe|185
+USA|USA|Americas|Northern America|186
+URY|Uruguay|Americas|Latin America and the Caribbean|187
+UZB|Uzbekistan|Asia|Central Asia|188
+VUT|Vanuatu|Oceania|Melanesia|189
+VEN|Venezuela|Americas|Latin America and the Caribbean|191
+VNM|Vietnam|Asia|South-eastern Asia|192
+YEM|Yemen|Asia|Western Asia|193
+ZMB|Zambia|Africa|Sub-Saharan Africa|194
+ZWE|Zimbabwe|Africa|Sub-Saharan Africa|195
+COK|Cook Islands|Oceania|Polynesia|198
+NIU|Niue|Oceania|Polynesia|200
+ALA|Åland Islands|Europe|Northern Europe|207
+ASM|American Samoa|Oceania|Polynesia|208
+AIA|Anguilla|Americas|Latin America and the Caribbean|209
+ATA|Antarctica|||210
+ABW|Aruba|Americas|Latin America and the Caribbean|211
+BMU|Bermuda|Americas|Northern America|212
+BES|Bonaire, Sint Eustatius and Saba|Americas|Latin America and the Caribbean|213
+BIH|Bosnia And Herzegovina|Europe|Southern Europe|214
+BVT|Bouvet Island|Americas|Latin America and the Caribbean|215
+IOT|British Indian Ocean Territory|Africa|Sub-Saharan Africa|216
+BRN|Brunei Darussalam|Asia|South-eastern Asia|217
+CPV|Cabo Verde|Africa|Sub-Saharan Africa|218
+CYM|Cayman Islands|Americas|Latin America and the Caribbean|219
+CXR|Christmas Island|Oceania|Australia and New Zealand|220
+CCK|Cocos (Keeling) Islands|Oceania|Australia and New Zealand|221
+COG|Congo|Africa|Sub-Saharan Africa|222
+COD|Congo (Democratic Republic Of The)|Africa|Sub-Saharan Africa|223
+CIV|Côte D'Ivoire|Africa|Sub-Saharan Africa|224
+CUW|Curaçao|Americas|Latin America and the Caribbean|225
+SWZ|Eswatini|Africa|Sub-Saharan Africa|226
+FLK|Falkland Islands (Malvinas)|Americas|Latin America and the Caribbean|227
+FRO|Faroe Islands|Europe|Northern Europe|228
+GUF|French Guiana|Americas|Latin America and the Caribbean|229
+PYF|French Polynesia|Oceania|Polynesia|230
+ATF|French Southern Territories|Africa|Sub-Saharan Africa|231
+GMB|Gambia|Africa|Sub-Saharan Africa|232
+GIB|Gibraltar|Europe|Southern Europe|233
+GRL|Greenland|Americas|Northern America|234
+GLP|Guadeloupe|Americas|Latin America and the Caribbean|235
+GUM|Guam|Oceania|Micronesia|236
+GGY|Guernsey|Europe|Northern Europe|237
+GNB|Guinea Bissau|Africa|Sub-Saharan Africa|238
+HMD|Heard Island and McDonald Islands|Oceania|Australia and New Zealand|239
+VAT|Holy See|Europe|Southern Europe|240
+HKG|Hong Kong|Asia|Eastern Asia|241
+IMN|Isle of Man|Europe|Northern Europe|242
+JEY|Jersey|Europe|Northern Europe|243
+KOR|Korea, Republic of|Asia|Eastern Asia|244
+MAC|Macao|Asia|Eastern Asia|245
+MTQ|Martinique|Americas|Latin America and the Caribbean|246
+MYT|Mayotte|Africa|Sub-Saharan Africa|247
+FSM|Micronesia (Federated States of)|Oceania|Micronesia|248
+MSR|Montserrat|Americas|Latin America and the Caribbean|249
+NCL|New Caledonia|Oceania|Melanesia|250
+NFK|Norfolk Island|Oceania|Australia and New Zealand|251
+MNP|Northern Mariana Islands|Oceania|Micronesia|252
+PSE|Palestine, State of|Asia|Western Asia|253
+PCN|Pitcairn|Oceania|Polynesia|254
+PRI|Puerto Rico|Americas|Latin America and the Caribbean|255
+REU|Réunion|Africa|Sub-Saharan Africa|256
+BLM|Saint Barthélemy|Americas|Latin America and the Caribbean|257
+SHN|Saint Helena, Ascension and Tristan da Cunha|Africa|Sub-Saharan Africa|258
+MAF|Saint Martin (French part)|Americas|Latin America and the Caribbean|259
+SPM|Saint Pierre and Miquelon|Americas|Northern America|260
+VCT|Saint Vincent and the Grenadines|Americas|Latin America and the Caribbean|261
+SXM|Sint Maarten (Dutch part)|Americas|Latin America and the Caribbean|262
+SGS|South Georgia and the South Sandwich Islands|Americas|Latin America and the Caribbean|263
+SJM|Svalbard and Jan Mayen|Europe|Northern Europe|264
+TWN|Taiwan|Asia|Eastern Asia|265
+TLS|Timor-Leste|Asia|South-eastern Asia|266
+TKL|Tokelau|Oceania|Polynesia|267
+TCA|Turks and Caicos Islands|Americas|Latin America and the Caribbean|268
+UMI|United States Minor Outlying Islands|Oceania|Micronesia|269
+VGB|Virgin Islands (British)|Americas|Latin America and the Caribbean|270
+VIR|Virgin Islands (U.S.)|Americas|Latin America and the Caribbean|271
+WLF|Wallis and Futuna|Oceania|Polynesia|272
+ESH|Western Sahara|Africa|Northern Africa|273
