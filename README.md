@@ -42,7 +42,6 @@ In this project, we build a data pipeline to consolidate data from multiple sour
 ## Usage
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/JavierFernandez2002/Srcs-to-Redshift-ETL.git
    ```
